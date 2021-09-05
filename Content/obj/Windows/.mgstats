@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/AP/3eBach/GameDev/MonogameAug21/Content/blok.png","D:/AP/3eBach/GameDev/MonogameAug21/Content/bin/Windows/blok.xnb","TextureProcessor","Texture2DContent",1589,32853,0,092756
+"D:/AP/3eBach/GameDev/MonogameAug21/Content/coin3.png","D:/AP/3eBach/GameDev/MonogameAug21/Content/bin/Windows/coin3.xnb","TextureProcessor","Texture2DContent",6957,202585,0,0069577
+"D:/AP/3eBach/GameDev/MonogameAug21/Content/player.png","D:/AP/3eBach/GameDev/MonogameAug21/Content/bin/Windows/player.xnb","TextureProcessor","Texture2DContent",5126,294485,0,00801
+"D:/AP/3eBach/GameDev/MonogameAug21/Content/quit.png","D:/AP/3eBach/GameDev/MonogameAug21/Content/bin/Windows/quit.xnb","TextureProcessor","Texture2DContent",465,30085,0,0009974
+"D:/AP/3eBach/GameDev/MonogameAug21/Content/resume.png","D:/AP/3eBach/GameDev/MonogameAug21/Content/bin/Windows/resume.xnb","TextureProcessor","Texture2DContent",596,30085,0,0019934
+"D:/AP/3eBach/GameDev/MonogameAug21/Content/spike.png","D:/AP/3eBach/GameDev/MonogameAug21/Content/bin/Windows/spike.xnb","TextureProcessor","Texture2DContent",14192,2217685,0,1381318
